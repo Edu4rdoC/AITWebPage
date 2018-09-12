@@ -1,3 +1,19 @@
 New Deta
-tIstA
+tIstAA
+New Detee
+test
 Se realizan cambios al proyecto general.
+
+
+<html>
+	<head>
+		#Encabezado
+	</head>
+	<body>
+		<p>Este es un parrafo de HTML</p>
+	</body>
+</html>
+
+
+
+Este es el fin de las modificaciones al archivo.
