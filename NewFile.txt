@@ -1,29 +1,4 @@
-<<<<<<< HEAD
-New Deta
-<<<<<<< HEAD
-tIMtBA
-=======
-EZstAA
->>>>>>> Develop
-New Detee
-test
-Se realizan cambios al proyecto general.
-
-
-<html>
-	<head>
-		#Encabezado
-	</head>
-	<body>
-		<p>Este es un parrafo de HTML</p>
-	</body>
-</html>
-
-
-
-Este es el fin de las modificaciones al archivo.
-
 Se agrega cÛdigo para la funciÛn de CFDI - Alfonso 12 Sep 2018 12:51pm
-=======
 Se inicializa el protyecto ya que se requiere generarlo de 0 para la integraciÛn del proyecto de TC - Eduardo 12:50 pm 
->>>>>>> Develop---Implementaci√≥n-TC
+
+Se limpia el archivo
