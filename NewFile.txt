@@ -1,9 +1,5 @@
 New Deta
-<<<<<<< HEAD
-tIMtAA
-=======
-tZstAA
->>>>>>> Develop
+tIMtBA
 New Detee
 test
 Se realizan cambios al proyecto general.
