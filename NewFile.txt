@@ -1,5 +1,8 @@
 New Deta
+<<<<<<< HEAD
 tIMtAA
+=======
+>>>>>>> Develop
 New Detee
 test
 Se realizan cambios al proyecto general.
