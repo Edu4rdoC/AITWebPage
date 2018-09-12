@@ -21,3 +21,13 @@ Se realizan cambios al proyecto general.
 
 
 Este es el fin de las modificaciones al archivo.
+
+Se incluye el código de Reporteria:
+
+Esta reporteria incluirá:
+
+Reporte de Ventas.
+Reporte de Candidatos.
+Reporte de módulos.
+
+//Queda pendiente la integración de los reportes de campo.
