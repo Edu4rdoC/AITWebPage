@@ -31,3 +31,5 @@ Reporte de Candidatos.
 Reporte de módulos.
 
 //Queda pendiente la integración de los reportes de campo.
+
+Se agrega un nuevo cambio de reporteria
