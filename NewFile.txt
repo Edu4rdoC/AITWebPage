@@ -1,1 +1,1 @@
-Se inicializa el protyecto ya que se requiere generarlo de 0 para la integración del proyecto de TC - Eduardo 12:50 pm
+Se inicializa el protyecto ya que se requiere generarlo de 0 para la integración del proyecto de TC - Eduardo 12:50 pm 
