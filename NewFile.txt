@@ -1,4 +1,32 @@
 Se agrega código para la función de CFDI - Alfonso 12 Sep 2018 12:51pm
 Se inicializa el protyecto ya que se requiere generarlo de 0 para la integración del proyecto de TC - Eduardo 12:50 pm 
 
+<<<<<<< HEAD
 Se limpia el archivo
+=======
+
+<html>
+	<head>
+		#Encabezado
+	</head>
+	<body>
+		<p>Este es un parrafo de HTML</p>
+	</body>
+</html>
+
+
+
+Este es el fin de las modificaciones al archivo.
+
+Se incluye el código de Reporteria:
+
+Esta reporteria incluirá:
+
+Reporte de Ventas.
+Reporte de Candidatos.
+Reporte de módulos.
+
+//Queda pendiente la integración de los reportes de campo.
+
+Se agrega un nuevo cambio de reporteria
+>>>>>>> Develop---Proyecto-Reporteria
